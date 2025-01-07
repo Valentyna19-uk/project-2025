@@ -1,0 +1,14 @@
+C:\Users\Venera\source\repos\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.exe
+C:\Users\Venera\source\repos\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.deps.json
+C:\Users\Venera\source\repos\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.json
+C:\Users\Venera\source\repos\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.runtimeconfig.dev.json
+C:\Users\Venera\source\repos\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.dll
+C:\Users\Venera\source\repos\Rectangle\bin\Debug\netcoreapp3.1\Rectangle.pdb
+C:\Users\Venera\source\repos\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.AssemblyReference.cache
+C:\Users\Venera\source\repos\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venera\source\repos\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfoInputs.cache
+C:\Users\Venera\source\repos\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.AssemblyInfo.cs
+C:\Users\Venera\source\repos\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Venera\source\repos\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.dll
+C:\Users\Venera\source\repos\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.pdb
+C:\Users\Venera\source\repos\Rectangle\obj\Debug\netcoreapp3.1\Rectangle.genruntimeconfig.cache
